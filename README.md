@@ -1,0 +1,2 @@
+# gitignoreExample
+HowtoGitIgnore
