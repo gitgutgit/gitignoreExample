@@ -9,6 +9,7 @@ There are four .gitignore files in this repository:
 1. .gitignore in the main folder
 
     Unnecessaryfolder -> Ignore the Unnecessaryfolder.
+    
     Tfolder/img -> Ignore the img folder inside Tfolder. (Note the difference from the below .gitignore files)
 
 
